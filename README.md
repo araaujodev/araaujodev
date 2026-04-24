@@ -19,7 +19,7 @@ Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no
   <img 
     alt="Portfólio" 
     title="Meu Portfólio" 
-    src="https://img.shields.io/badge/Portfólio-Acessar-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
+    src="https://img.shields.io/badge/Portfólio-Acessar-111111?style=for-the-badge&logo=google-chrome&logoColor=white"
   />
 </a>
 
