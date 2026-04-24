@@ -2,11 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no último semestre de Análise e Desenvolvimento de Sistemas pela FECAF.
-
-Tenho foco em criar soluções modernas, eficientes e orientadas a resultados, unindo tecnologia e estratégia para resolver problemas reais.
-
-Ao longo da minha trajetória, venho desenvolvendo projetos práticos com foco em desenvolvimento full stack, automação e aplicações interativas, sempre priorizando performance, escalabilidade e experiência do usuário.
+Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no último semestre de Análise e Desenvolvimento de Sistemas pela FECAF, Tenho foco em criar soluções modernas, eficientes e orientadas a resultados, unindo tecnologia e estratégia para resolver problemas reais, ao longo da minha trajetória, venho desenvolvendo projetos práticos com foco em desenvolvimento full stack, automação e aplicações interativas, sempre priorizando performance, escalabilidade e experiência do usuário.
 
 🚀 Conheça mais sobre mim no meu portfólio:  
 [Matheus Araujo](https://portfoliomatheusaraujo.netlify.app/)
@@ -30,7 +26,7 @@ Ao longo da minha trajetória, venho desenvolvendo projetos práticos com foco e
 
 ---
 
-### 💻🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="HTML5" title="HTML5" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
