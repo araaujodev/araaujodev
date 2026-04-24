@@ -43,6 +43,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
 <br/>
+<br/>
 
 <!-- Backend / Python Ecosystem -->
 <img align="left" alt="Python" title="Python" width="30px"
@@ -64,7 +65,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br/>
 <br/>
 
----
 ---
 
 ### 📊 Estatísticas
