@@ -13,13 +13,13 @@ I’m also interested in **technology applied to business, automation, and scala
 
 <p align="left">
   <a href="https://github.com/araaujodev">
-    <img src="https://img.shields.io/badge/GitHub-ARAAUJODEV-181717?style=for-the-badge&logo=github" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" />
   </a>
   <a href="https://www.linkedin.com/in/theeusaraujoo0/">
-    <img src="https://img.shields.io/badge/LinkedIn-MATHEUS%20ARAUJO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" />
   </a>
   <a href="https://portfoliomatheusaraujo.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-ACCESS-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlechrome/googlechrome-original.svg" width="30px" />
   </a>
 </p>
 
