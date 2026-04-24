@@ -23,47 +23,48 @@ Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no
 
 ### 🤖 Linguagens e Tecnologias
 
+<p align="center">
+
 <!-- Frontend -->
-<img align="left" alt="HTML5" title="HTML5" width="30px"
+<img alt="HTML5" title="HTML5" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
-<img align="left" alt="CSS3" title="CSS3" width="30px"
+<img alt="CSS3" title="CSS3" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-<img align="left" alt="JavaScript" title="JavaScript" width="30px"
+<img alt="JavaScript" title="JavaScript" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-<img align="left" alt="TypeScript" title="TypeScript" width="30px"
+<img alt="TypeScript" title="TypeScript" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-<img align="left" alt="React" title="React" width="30px"
+<img alt="React" title="React" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px"
+<img alt="Bootstrap" title="Bootstrap" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
-<br/>
-<br/>
+<br/><br/>
 
-<!-- Backend / Python Ecosystem -->
-<img align="left" alt="Python" title="Python" width="30px"
+<!-- Backend -->
+<img alt="Python" title="Python" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img align="left" alt="Django" title="Django" width="30px"
+<img alt="Django" title="Django" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 
-<img align="left" alt="Selenium" title="Selenium" width="30px"
+<img alt="Selenium" title="Selenium" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 
-<img align="left" alt="MySQL" title="MySQL" width="30px"
+<img alt="MySQL" title="MySQL" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-<!-- Ferramentas -->
-<img align="left" alt="Git" title="Git" width="30px"
+<img alt="Git" title="Git" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<br/>
-<br/>
+</p>
+
+---
 
 ---
 
