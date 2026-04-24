@@ -19,9 +19,6 @@ Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no
 <br/>
 <br/>
 
-<br/>
-<br/>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
