@@ -8,12 +8,29 @@ Tenho foco em criar soluções modernas, eficientes e orientadas a resultados, u
 
 Ao longo da minha trajetória, venho desenvolvendo projetos práticos com foco em desenvolvimento full stack, automação e aplicações interativas, sempre priorizando performance, escalabilidade e experiência do usuário.
 
-🚀 Conheça mais sobre mim:  
-[Portfólio](https://portfoliomatheusaraujo.netlify.app/)
+🚀 Conheça mais sobre mim no meu portfólio:  
+[Matheus Araujo](https://portfoliomatheusaraujo.netlify.app/)
 
 ---
 
-### 💻 Tecnologias
+### 🌐 Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/theeusaraujoo0/" target="_blank">
+  <img align="left" alt="LinkedIn" title="LinkedIn" width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
+<a href="https://portfoliomatheusaraujo.netlify.app/" target="_blank">
+  <img align="left" alt="Portfólio" title="Portfólio" width="30px"
+  src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" />
+</a>
+
+<br/>
+<br/>
+
+---
+
+### 💻🤖 Linguagens e Tecnologias
 
 <img align="left" alt="HTML5" title="HTML5" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -27,14 +44,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 <img align="left" alt="TypeScript" title="TypeScript" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
+<img align="left" alt="Python" title="Python" width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
 <img align="left" alt="React" title="React" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <img align="left" alt="Bootstrap" title="Bootstrap" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-
-<img align="left" alt="Python" title="Python" width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <img align="left" alt="Git" title="Git" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
