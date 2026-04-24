@@ -22,9 +22,11 @@ Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tech Stack
 
 <p>
+
+### Frontend
 
 <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -36,6 +38,10 @@ Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no
 </p>
 
 <p>
+
+### Backend
+
+---
 
 <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
@@ -50,7 +56,7 @@ Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no
 
 ---
 
-### 📊 Estatísticas
+### 📊 GitHub Stats
 
 <p>
   <img 
