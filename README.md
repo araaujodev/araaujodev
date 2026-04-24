@@ -4,24 +4,20 @@
 
 Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no último semestre de Análise e Desenvolvimento de Sistemas pela FECAF, Tenho foco em criar soluções modernas, eficientes e orientadas a resultados com foco em desenvolvimento full stack, automações e aplicações interativas, sempre priorizando performance e experiência do usuário, conheça meu portfólio: [Matheus Araujo](https://portfoliomatheusaraujo.netlify.app/)
 
-
 ### 🌐 Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/theeusaraujoo0/" target="_blank">
-  <img 
-    alt="LinkedIn" 
-    title="Meu LinkedIn" 
-    src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
+  <img align="left" alt="LinkedIn" title="LinkedIn" width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
 <a href="https://portfoliomatheusaraujo.netlify.app/" target="_blank">
-  <img 
-    alt="Portfólio" 
-    title="Meu Portfólio" 
-    src="https://img.shields.io/badge/Portfólio-Acessar-111111?style=for-the-badge&logo=google-chrome&logoColor=white"
-  />
+  <img align="left" alt="Portfólio" title="Portfólio" width="30px"
+  src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" />
 </a>
+
+<br/>
+<br/>
 
 <br/>
 <br/>
