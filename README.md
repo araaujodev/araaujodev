@@ -23,10 +23,11 @@ Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no
 ---
 
 ### 🤖 Tech Stack
-
+---
 <p>
 
 ### Frontend
+---
 
 <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -51,8 +52,6 @@ Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no
 <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 </p>
-
----
 
 ---
 
