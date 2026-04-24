@@ -16,7 +16,7 @@ I’m also interested in **technology applied to business, automation, and scala
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" />
   </a>
   <a href="https://www.linkedin.com/in/theeusaraujoo0/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="30px" />
   </a>
   <a href="https://portfoliomatheusaraujo.netlify.app/">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="30px" />
