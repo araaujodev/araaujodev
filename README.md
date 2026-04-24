@@ -23,6 +23,7 @@ Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no
 
 ### 🤖 Linguagens e Tecnologias
 
+<!-- Frontend -->
 <img align="left" alt="HTML5" title="HTML5" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
@@ -41,6 +42,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
 <img align="left" alt="Bootstrap" title="Bootstrap" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
+<br/>
+<br/>
+
+<!-- Backend / Python Ecosystem -->
 <img align="left" alt="Python" title="Python" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
@@ -53,6 +58,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-origin
 <img align="left" alt="MySQL" title="MySQL" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
+<!-- Ferramentas -->
 <img align="left" alt="Git" title="Git" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
