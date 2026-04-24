@@ -16,7 +16,6 @@ Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no
 </a>
 
 <br/>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -46,8 +45,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-orig
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br/>
-<br/>
-
 ---
 
 ### 📊 Estatísticas
