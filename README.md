@@ -1,74 +1,86 @@
-# 🧑🏾‍💻 Matheus Araújo
+# Hi 👋, I'm Matheus Araújo
 
-**`Desenvolvedor Full Stack`** **`Systems Developer`** **`Software Developer`**
+🚀 **Full Stack Developer in training**  
+🇧🇷 Brazil
 
+I build **modern web applications**, **full stack systems**, and **automations** focused on solving real-world problems.  
+Currently in my final semester of Systems Analysis and Development, I’m constantly improving my skills in **backend development, performance, and clean code**.
 
-Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no último semestre de Análise e Desenvolvimento de Sistemas pela FECAF, Tenho foco em criar soluções modernas, eficientes e orientadas a resultados com foco em desenvolvimento full stack, automações e aplicações interativas, sempre priorizando performance e experiência do usuário, conheça meu portfólio: [Matheus Araujo](https://portfoliomatheusaraujo.netlify.app/)
-
-### 🌐 Conecte-se comigo
-
-<a href="https://www.linkedin.com/in/theeusaraujoo0/" target="_blank">
-  <img align="left" alt="LinkedIn" title="LinkedIn" width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-
-<a href="https://portfoliomatheusaraujo.netlify.app/" target="_blank">
-  <img align="left" alt="Portfólio" title="Portfólio" width="30px"
-  src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" />
-</a>
-
-<br/>
-<br/>
-
+I’m also interested in **technology applied to business, automation, and scalable digital solutions**.
 ---
 
-### 🤖 Tech Stack
----
-<p>
+## 🌐 Where to find me
 
-### Frontend
----
-
-<img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-
+<p align="left">
+  <a href="https://github.com/araaujodev">
+    <img src="https://img.shields.io/badge/GitHub-ARAAUJODEV-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/theeusaraujoo0/">
+    <img src="https://img.shields.io/badge/LinkedIn-MATHEUS%20ARAUJO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfoliomatheusaraujo.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-ACCESS-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
-<p>
+---
+
+## 🧠 What I do
+
+- 💻 Full Stack Web Development  
+- ⚙️ Backend development with Python (Django, APIs)  
+- 🧩 Interactive applications with React  
+- 📊 Database integration  
+- 🧠 Clean code, OOP and design patterns basics  
+- 🚀 Continuous learning and improvement  
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
 ### Backend
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
+
+### Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
 ---
 
-<img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img alt="Qt / PySide6" title="PySide6 (Qt)" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
-<img alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-<img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+## 📊 GitHub Stats
 
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=araaujodev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araaujodev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Philosophy
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=araaujodev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+> _"Technology is not just about code.  
+> It's about solving problems and creating real impact."_
 
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=araaujodev&theme=tokyonight&layout=compact&langs_count=8" 
-  />
-</p>
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Open to opportunities, collaborations, and new challenges
