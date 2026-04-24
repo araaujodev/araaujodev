@@ -1,4 +1,4 @@
-# Matheus Araújo
+# 🧑🏾‍💻 Matheus Araújo
 
 **`Desenvolvedor Full Stack`**
 
@@ -22,7 +22,7 @@ Ao longo da minha trajetória, venho desenvolvendo projetos práticos com foco e
 
 <a href="https://portfoliomatheusaraujo.netlify.app/" target="_blank">
   <img align="left" alt="Portfólio" title="Portfólio" width="30px"
-  src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" />
+  src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" />
 </a>
 
 <br/>
