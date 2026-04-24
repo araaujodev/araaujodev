@@ -16,7 +16,6 @@ Me chamo Matheus Araújo, desenvolvedor de software em formação, atualmente no
 </a>
 
 <br/>
-<br/>
 
 ---
 
